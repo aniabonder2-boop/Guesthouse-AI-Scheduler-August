@@ -25,11 +25,34 @@ Aplikacja pomaga ograniczyć błędy ręcznego planowania, zmniejszyć ryzyko pr
 
 ## Technologie
 
-- Python
-- Google Colab
-- Pandas
-- NumPy
+Zastosowane technologie
+Frontend (Aplikacja użytkownika)
+Google AppSheet
+Platforma No-Code
+Progressive Web Application (PWA)
 
+Aplikacja użytkownika została zbudowana w Google AppSheet, które umożliwia tworzenie aplikacji biznesowych bez konieczności programowania interfejsu użytkownika.
+
+Baza danych
+Google Sheets
+
+Arkusze Google pełnią rolę relacyjnej chmurowej bazy danych przechowującej informacje o pracownikach, grafikach oraz wnioskach urlopowych.
+
+Backend
+Python 3
+Google Colab
+
+Logika biznesowa systemu została zaimplementowana w języku Python i uruchamiana w środowisku Google Colab.
+
+Wykorzystane biblioteki Python
+pandas – przetwarzanie i analiza danych,
+gspread – komunikacja z arkuszami Google Sheets,
+google-auth – autoryzacja i bezpieczny dostęp do usług Google.
+Architektura systemu
+
+Frontend (AppSheet) → Google Sheets → Python (Google Colab)
+
+Użytkownik składa wniosek urlopowy w aplikacji AppSheet. Dane trafiają do arkuszy Google Sheets, które stanowią centralną bazę danych systemu. Następnie aplikacja Python analizuje wniosek zgodnie z regułami biznesowymi i automatycznie aktualizuje status oraz grafik pracy.
 ## Autorzy
 
 - Anna Bonder
