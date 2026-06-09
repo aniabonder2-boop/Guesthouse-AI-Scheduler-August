@@ -68,7 +68,7 @@ Widok wszystkich złożonych wniosków urlopowych uwzględnianych podczas planow
 
 Przykład procesu zgłaszania urlopu przez pracownika.
 
-![Zgłoszenie urlopu](zgloszenie_urlopu.png)
+![Zgłoszenie urlopu](Zgłoszenie%20urlopu.PNG)
 
 
 ## Podsumowanie
