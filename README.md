@@ -1,4 +1,4 @@
-# Guesthouse AI Scheduler – Sierpien
+# Guesthouse AI Scheduler – Sierpień
 
 ## Opis projektu
 
