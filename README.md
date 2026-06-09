@@ -1,4 +1,4 @@
-# Guesthouse AI Scheduler – August Edition
+# Guesthouse AI Scheduler – Sierpien
 
 ## Opis projektu
 
@@ -38,17 +38,38 @@ Aplikacja pomaga ograniczyć błędy ręcznego planowania, zmniejszyć ryzyko pr
 
 ## Zrzuty ekranu
 
-### Widok aplikacji
+## Zrzuty ekranu aplikacji
 
-![Dashboard](dashboard.png)
+### Zapotrzebowanie zmianowe
 
-### Grafik na sierpień
+Widok przedstawiający wymagania dotyczące obsady poszczególnych zmian w sierpniu.
 
-![Grafik sierpień](grafik_sierpien.png)
+![Zapotrzebowanie zmianowe](zapotrzebowanie_zmianowe.png)
 
-### Analiza obciążenia pracowników
+### Lista pracowników
 
-![Heatmapa](heatmapa.png)
+Baza pracowników wykorzystywana podczas planowania harmonogramu pracy.
+
+![Lista pracowników](lista_pracownikow.png)
+
+### Wnioski urlopowe – Formularz
+
+Formularz umożliwiający pracownikom składanie wniosków urlopowych.
+
+![Wnioski urlopowe Form](wnioski_urlopowe_form.png)
+
+### Aktualne wnioski urlopowe
+
+Widok wszystkich złożonych wniosków urlopowych uwzględnianych podczas planowania grafiku.
+
+![Aktualne wnioski urlopowe](aktualne_wnioski_urlopowe.png)
+
+### Zgłoszenie urlopu
+
+Przykład procesu zgłaszania urlopu przez pracownika.
+
+![Zgłoszenie urlopu](zgloszenie_urlopu.png)
+
 
 ## Podsumowanie
 
