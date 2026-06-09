@@ -44,25 +44,25 @@ Aplikacja pomaga ograniczyć błędy ręcznego planowania, zmniejszyć ryzyko pr
 
 Widok przedstawiający wymagania dotyczące obsady poszczególnych zmian w sierpniu.
 
-![Zapotrzebowanie zmianowe](zapotrzebowanie_zmianowe.png)
+![Zapotrzebowanie zmianowe](Zapotrzebowanie%20zmianowe.PNG)
 
 ### Lista pracowników
 
 Baza pracowników wykorzystywana podczas planowania harmonogramu pracy.
 
-![Lista pracowników](lista_pracownikow.png)
+![Lista pracowników](Lista%20pracowników.PNG)
 
 ### Wnioski urlopowe – Formularz
 
 Formularz umożliwiający pracownikom składanie wniosków urlopowych.
 
-![Wnioski urlopowe Form](wnioski_urlopowe_form.png)
+![Wnioski urlopowe Form](Wnioski%20urlopowe%20form.PNG)
 
 ### Aktualne wnioski urlopowe
 
 Widok wszystkich złożonych wniosków urlopowych uwzględnianych podczas planowania grafiku.
 
-![Aktualne wnioski urlopowe](aktualne_wnioski_urlopowe.png)
+![Aktualne wnioski urlopowe](Aktualne%20wnioski%20urlopowe.PNG)
 
 ### Zgłoszenie urlopu
 
